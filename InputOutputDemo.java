@@ -15,6 +15,6 @@ public class InputOutputDemo {
     System.out.printf("Your decimal number: %.2f%n", userDouble);
     System.out.printf("Your string: %s%n", userString);
     input.close();
-
+    
     }
 }
